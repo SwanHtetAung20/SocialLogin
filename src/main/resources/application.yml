@@ -1,0 +1,12 @@
+#spring.application.name=socialLogin
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: Iv23li7qgSO82WbKsDRR
+            clientSecret: 1912889e45170a32c33e0d208d61c79decca8b60
+          google:
+            clientId:
+            clientSecret:
